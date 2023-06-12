@@ -30,13 +30,13 @@ export default {
 				},
 				{
 					id: 3,
-					value: 'ui-ux',
-					name: 'UI/UX Design',
+					value: 'backend',
+					name: 'Backend Development',
 				},
 				{
 					id: 4,
-					value: 'branding',
-					name: 'Branding & Anim',
+					value: 'fullStack',
+					name: 'Full Stack',
 				},
 			],
 		};
@@ -87,14 +87,14 @@ export default {
 					<router-link to="/"
 						><img
 							v-if="theme === 'light'"
-							src="@/assets/images/logo-dark.svg"
-							class="w-36"
+							src="@/assets/images/logo-light.png"
+							class="w-28"
 							alt="Dark Logo"
 						/>
 						<img
 							v-else
-							src="@/assets/images/logo-light.svg"
-							class="w-36"
+							src="@/assets/images/logo-dark.png"
+							class="w-28"
 							alt="Light Logo"
 						/>
 					</router-link>
