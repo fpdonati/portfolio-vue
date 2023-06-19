@@ -117,9 +117,9 @@ export default {
                   method="POST"
                   class="max-w-xl m-4 text-left"
                 >
-                  <FormInput label="name" inputIdentifier="name" class="mb-2" />
+                  <FormInput label="Name" inputIdentifier="name" class="mb-2" />
                   <FormInput
-                    label="email"
+                    label="Email"
                     inputIdentifier="email"
                     inputType="email"
                   />

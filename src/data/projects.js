@@ -19,7 +19,7 @@ const projects = [
 	{
 		id: 3,
 		title: 'Managment Agenda Platform',
-		category: 'Web Aplication',
+		category: 'Full stack',
 		img: require('@/assets/images/web-project-2.jpg'),
 		name: "fastagenda"
 	},

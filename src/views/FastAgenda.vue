@@ -18,7 +18,7 @@ export default {
 			singleProjectHeader: {
 				singleProjectTitle: 'Managment appointments Platform',
 				singleProjectDate: 'Jun, 2023',
-				singleProjectTag: 'Personal project',
+				singleProjectTag: 'Full stack',
 			},
 			projectImages: [
 				{
