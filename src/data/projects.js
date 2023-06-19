@@ -7,18 +7,21 @@ const projects = [
 		title: 'Car Reparation Platform',
 		category: 'Web Application',
 		img: require('@/assets/images/car-project.png'),
+		name: "mecanu",
 	},
 	{
 		id: 2,
 		title: 'Crypto Wallet Platform',
 		category: 'Web Application',
 		img: require('@/assets/images/crypto-project.png'),
+		name: "skipo",
 	},
 	{
 		id: 3,
 		title: 'Managment Agenda Platform',
 		category: 'Web Aplication',
 		img: require('@/assets/images/web-project-2.jpg'),
+		name: "fastagenda"
 	},
 ];
 

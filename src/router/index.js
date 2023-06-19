@@ -35,7 +35,7 @@ const routes = [
 		},
 	},
 	{
-		path: '/projects/1',
+		path: '/projects/mecanu',
 		name: 'Mecanu',
 		// route level code-splitting
 		// this generates a separate chunk (projects.[hash].js) for this route
@@ -49,7 +49,21 @@ const routes = [
 		},
 	},
 	{
-		path: '/projects/2',
+		path: '/projects/fastagenda',
+		name: 'FastAgenda',
+		// route level code-splitting
+		// this generates a separate chunk (projects.[hash].js) for this route
+		// which is lazy-loaded when the route is visited.
+		component: () =>
+			import(
+				/* webpackChunkName: "projects" */ '../views/FastAgenda.vue'
+			),
+		meta: {
+			title: 'Donati - FastAgenda',
+		},
+	},
+	{
+		path: '/projects/skipo',
 		name: 'Skipo',
 		// route level code-splitting
 		// this generates a separate chunk (projects.[hash].js) for this route

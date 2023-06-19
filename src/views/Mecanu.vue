@@ -42,7 +42,7 @@ export default {
 				companyInfos: [
 					{
 						id: 1,
-						title: 'Name',
+						title: 'Company',
 						details: 'Mecanu.',
 					},
 					{

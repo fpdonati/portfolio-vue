@@ -5,12 +5,12 @@ export const socialLinks = [
 		icon: 'linkedin',
 		url: 'https://www.linkedin.com/in/francodonati9',
 	},
-	{
-		id: 2,
-		name: 'GitHub',
-		icon: 'github',
-		url: 'https://github.com/realstoman',
-	},
+	// {
+	// 	id: 2,
+	// 	name: 'GitHub',
+	// 	icon: 'github',
+	// 	url: 'https://github.com/realstoman',
+	// },
 	// {
 	// 	id: 3,
 	// 	name: 'Twitter',

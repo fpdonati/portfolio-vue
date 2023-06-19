@@ -21,17 +21,17 @@ export default {
 				{
 					id: 1,
 					value: 'web',
-					name: 'Web Application',
+					name: 'Frontend Web',
 				},
 				{
 					id: 2,
 					value: 'mobile',
-					name: 'Mobile Application',
+					name: 'Frontend Mobile',
 				},
 				{
 					id: 3,
 					value: 'backend',
-					name: 'Backend Development',
+					name: 'Backend',
 				},
 				{
 					id: 4,

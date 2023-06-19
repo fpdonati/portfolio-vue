@@ -77,7 +77,7 @@ export default {
       <p
         class="font-general-medium text-primary-dark dark:text-primary-light text-2xl mb-8"
       >
-        Contact Form
+        Contact me
       </p>
       <form
         :action="FORM_ENDPOINT"
@@ -138,10 +138,10 @@ export default {
           />
         </div>
       </form>
-      <div v-if="status" class="text-center mt-10">
+      <!-- <div v-if="status" class="text-center mt-10">
         <h2 class="text-2xl">Thanks you!</h2>
         <div class="text-md">{{ status }}</div>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
