@@ -9,7 +9,8 @@ export default {
 		selectOptions: {
 			type: Array,
 			default: () => [
-				'Web Application',
+				'Frontend web',
+				'Backend',
 				'Full stack',
 			],
 		},

@@ -5,14 +5,14 @@ const projects = [
 	{
 		id: 1,
 		title: 'Car Reparation Platform',
-		category: 'Web Application',
+		category: 'Backend',
 		img: require('@/assets/images/car-project.png'),
 		name: "mecanu",
 	},
 	{
 		id: 2,
 		title: 'Crypto Wallet Platform',
-		category: 'Web Application',
+		category: 'Frontend web',
 		img: require('@/assets/images/crypto-project.png'),
 		name: "skipo",
 	},
